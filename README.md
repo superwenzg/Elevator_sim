@@ -1,3 +1,7 @@
 # Elevator_sim
-相关的参数要求在key_value中
-功能进行了加强
+
+No description will be written
+
+Because the program is totally messy right now.
+
+May be will be redesigned in the future.
